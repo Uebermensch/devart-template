@@ -1,4 +1,4 @@
-# Project Title
+# Með suð í eyrum við spilum endalaust 
 Insert the name of your project
 
 ## Authors
