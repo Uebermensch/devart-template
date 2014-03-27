@@ -1,6 +1,8 @@
 # Með suð í eyrum við spilum endalaust 
 
-Með suð í eyrum við spilum endalaust (Icelandic: [mɛð ˈsʏːð i ˈeiːrʏm vɪð ˈspɪːlʏm ˈɛntaløyst], With a Buzz in Our Ears We Play Endlessly[13]) is the fifth full-length studio album by the Icelandic band Sigur Rós, released on June 23, 2008.
+Með suð í eyrum við spilum endalaust (Icelandic: [mɛð ˈsʏːð i ˈeiːrʏm vɪð ˈspɪːlʏm ˈɛntaløyst], 
+With a Buzz in Our Ears We Play Endlessly[13]) is the fifth full-length studio album 
+by the Icelandic band Sigur Rós, released on June 23, 2008.
 
 ## Authors
 - Insert main author name, surname, github account
