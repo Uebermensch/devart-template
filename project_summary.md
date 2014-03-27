@@ -1,9 +1,11 @@
 # Með suð í eyrum við spilum endalaust 
-Insert the name of your project
+
+Með suð í eyrum við spilum endalaust (Icelandic: [mɛð ˈsʏːð i ˈeiːrʏm vɪð ˈspɪːlʏm ˈɛntaløyst], With a Buzz in Our Ears We Play Endlessly[13]) is the fifth full-length studio album by the Icelandic band Sigur Rós, released on June 23, 2008.
 
 ## Authors
 - Insert main author name, surname, github account
 - Insert other author(s) name, surname, github account (one per list element)
+- Jeon Minje a.k.a Ueber
 
 ## Description
 Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
