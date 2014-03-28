@@ -5,9 +5,8 @@ With a Buzz in Our Ears We Play Endlessly[13]) is the fifth full-length studio a
 by the Icelandic band Sigur Rós, released on June 23, 2008.
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
 - Jeon Minje a.k.a Ueber
+- https://github.com/Uebermensch/devart-template/
 
 ## Description
 Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
